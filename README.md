@@ -59,6 +59,7 @@ Mon code est l’œuvre d’un novice et est intensif en requêtes ; après envi
 Attention : le code extrait les informations sur une liste de 2,1M d’entreprises : Presser “Ctrl+c” deux fois dans le terminal pour arrêter le code manuellement. 
 
 Étapes pour exécuter le code (pour les profanes)
+Vous ne pourrez pas exécuter ce code car vous n’avez pas accès à la base de donnée que j’utilise et je ne sais pas encore comment la transmettre mais vous pouvez adapter le code pour qu’il s’effectue à partir de votre propre liste d’entreprise
 J’utilise Anaconda Navigator, qui facilite l’installation et la gestion des librairies.
 1.	Ouvrir Anaconda (gestionnaire d’environnement).
 2.	Sélectionner un environnement contenant les librairies Scrapy et Protego (en plus de celles par défaut).
@@ -154,6 +155,7 @@ In case of abuse, you risk being banned from the site or even legal action due t
 The code extract information on a list of 2,1 M enterprises and thus will not stop automatically : Perform “Ctrl+c” 2 times to stop the code manually. 
 
 Steps to Run the Code (For Beginners)
+You will not be able to run this code because you don’t have access to the database I’m using, and I don’t yet know how to share it, but you can adapt the code to work with your own list of companies. 
 I use Anaconda Navigator, which makes it easy to install and manage libraries.
 1.	Open Anaconda (environment manager).
 2.	Select an environment containing the Scrapy and Protego libraries (in addition to the default ones).
