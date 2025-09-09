@@ -1,4 +1,4 @@
-Projet InfoCommerce
+Lire Readme au format pdf pour une lecture plus claire / read Readme file in pdf format for more clarity
 
 Plan : 
 
