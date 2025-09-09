@@ -3,26 +3,26 @@ Lire Readme au format pdf pour une lecture plus claire / read Readme file in pdf
 # Plan : 
 
 ## FRENCH VERSION 	
-Introduction	
-Motivation du projet	
-Justification du Scraping	
-Description du code	
-Mise en garde sur le Scraping	
-Étapes pour exécuter le code (pour les profanes)	
-Informations sur la nature des données	
-Points d’amélioration du code	
-Contact	
+- Introduction
+- Motivation du projet
+- Justification du Scraping
+- Description du code
+- Mise en garde sur le Scraping
+- Étapes pour exécuter le code (pour les profanes)
+- Informations sur la nature des données
+- Points d’amélioration du code
+- Contact
 
 ## ENGLISH VERSION 
-Introduction	
-Project Motivation	
-Scraping Justification	
-Code Description	
-Scraping Warning	
-Steps to Run the Code (For Beginners)	
-Information on the Nature of the Data	
-Potential Code Improvements	
-Contact	
+- Introduction
+- Project Motivation
+- Scraping Justification
+- Code Description
+- Scraping Warning
+- Steps to Run the Code (For Beginners)
+- Information on the Nature of the Data
+- Potential Code Improvements
+- Contact
 
 # French Version : 
 
